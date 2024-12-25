@@ -1,0 +1,10 @@
+{
+	"typeAcquisition": {
+		"enable": true
+	},
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"module": "node16"
+	},
+	"exclude": ["node_modules"]
+}
